@@ -3,10 +3,6 @@
 Datenanalyse-Projekt mit **Python & Pandas** – von der Datenaufbereitung
 über die Analyse bis zur Visualisierung und Handlungsempfehlung.
 
-> ℹ️ **Hinweis:** Der Datensatz wurde für dieses Projekt **simuliert** (1.000 Bestellungen),
-> um einen realistischen Analyse-Workflow abzubilden.
-
----
 
 ## 🎯 Ziel
 Bestell- und Lieferdaten auswerten, um Umsatztreiber zu erkennen und
